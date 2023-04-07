@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/HazemPortfolio/static/css/main.f717bc42.css",
+    "main.js": "/HazemPortfolio/static/js/main.471a8ade.js",
+    "static/css/64.bba8fa55.chunk.css": "/HazemPortfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.a675a5af.chunk.js": "/HazemPortfolio/static/js/64.a675a5af.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/HazemPortfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.48a6be3d.chunk.js": "/HazemPortfolio/static/js/769.48a6be3d.chunk.js",
+    "static/media/stanfordLogo.png": "/HazemPortfolio/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
+    "static/media/harvardLogo.png": "/HazemPortfolio/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
+    "static/media/Montserrat-Regular.ttf": "/HazemPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/HazemPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/HazemPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/HazemPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/HazemPortfolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/HazemPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/HazemPortfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/airbnbLogo.png": "/HazemPortfolio/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/facebookLogo.png": "/HazemPortfolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/codeInLogo.webp": "/HazemPortfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/HazemPortfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/HazemPortfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/saayaHealthLogo.webp": "/HazemPortfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/HazemPortfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/HazemPortfolio/index.html",
+    "static/media/talksCardBack.svg": "/HazemPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.f717bc42.css.map": "/HazemPortfolio/static/css/main.f717bc42.css.map",
+    "main.471a8ade.js.map": "/HazemPortfolio/static/js/main.471a8ade.js.map",
+    "64.bba8fa55.chunk.css.map": "/HazemPortfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.a675a5af.chunk.js.map": "/HazemPortfolio/static/js/64.a675a5af.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/HazemPortfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.48a6be3d.chunk.js.map": "/HazemPortfolio/static/js/769.48a6be3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f717bc42.css",
+    "static/js/main.471a8ade.js"
+  ]
+}
