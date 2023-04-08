@@ -10,7 +10,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 1500 // Set animation duration as per your animation
+  duration: 1000 // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
@@ -23,10 +23,10 @@ const greeting = {
   username: "Hazem Enanceur",
   title: "Hi all, I'm Hazem",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Software Engineer with experience in Full Stack, DevOps, and Firmware engineering."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1uAeXvBXzOy83st_1XxNbx0TW46gn-Dwc/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -169,25 +169,32 @@ const workExperiences = {
       role: "Firmware Engineer",
       company: "Tesla",
       companylogo: require("./assets/images/tesla.png"),
-      date: "September 2022 – December 2022",
-      desc: "Developed firmware for Tesla Energy Megapack products",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      date: "Sep 2022 – Dec 2022",
+      desc: "Developed firmware for Tesla Energy Megapack products in C & Python",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
       role: "DevOps Engineer",
       company: "Nasdaq",
       companylogo: require("./assets/images/nasdaq.jpg"),
-      date: "May 2021 – September 2022",
-      desc: "Automated a complex data processing pipeline using AWS"
+      date: "Jan 2022 – Sep 2022",
+      desc: "Automated a complex data processing pipeline using AWS, Python, and JavaScript"
+    },
+    {
+      role: "Software Developer",
+      company: "Nasdaq",
+      companylogo: require("./assets/images/nasdaq.jpg"),
+      date: "May 2021 – Jan 2022",
+      desc: "Automated a complex data processing pipeline using AWS, Python, and JavaScript"
     },
     {
       role: "Full Stack developer",
       company: "Solace Power",
       companylogo: require("./assets/images/solace.png"),
-      date: "August 2020 – December 2020",
+      date: "Aug 2020 – Dec 2020",
       desc: "Developed internal engineering tool for iOS and Android using Flutter"
     },
     {
@@ -195,7 +202,7 @@ const workExperiences = {
       company: "inspectAR",
       companylogo: require("./assets/images/inspectar.png"),
       date: "January 2020 – May 2020",
-      desc: "Aided in the development of the inspectAR software for debugging PCBs using Augmented Reality"
+      desc: "Developed software for debugging PCBs using Augmented Reality in .NET & C#"
     }
   ]
 };
@@ -373,7 +380,7 @@ const twitterDetails = {
   display: true // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,

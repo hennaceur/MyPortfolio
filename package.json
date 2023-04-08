@@ -1,9 +1,10 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "developerfolio",
+  "homepage": "https://hennaceur.github.io/MyPortfolio/",
+  "name": "MyPortfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fullstory/browser": "^1.7.1",
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
@@ -24,7 +25,7 @@
     "predeploy": "npm run build",
     "start": "node fetch.js && react-scripts start",
     "build": "node fetch.js && react-scripts build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
