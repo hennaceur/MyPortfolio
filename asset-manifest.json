@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.7aa74460.css",
-    "main.js": "/MyPortfolio/static/js/main.b5861415.js",
-    "static/css/64.3b62a49e.chunk.css": "/MyPortfolio/static/css/64.3b62a49e.chunk.css",
-    "static/js/64.6b635eb9.chunk.js": "/MyPortfolio/static/js/64.6b635eb9.chunk.js",
-    "static/css/769.b3cbb36b.chunk.css": "/MyPortfolio/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.bb66b3c4.chunk.js": "/MyPortfolio/static/js/769.bb66b3c4.chunk.js",
+    "main.css": "/MyPortfolio/static/css/main.b1788390.css",
+    "main.js": "/MyPortfolio/static/js/main.747d3c76.js",
+    "static/css/64.917cfe77.chunk.css": "/MyPortfolio/static/css/64.917cfe77.chunk.css",
+    "static/js/64.ca48edc2.chunk.js": "/MyPortfolio/static/js/64.ca48edc2.chunk.js",
+    "static/css/769.70f3b610.chunk.css": "/MyPortfolio/static/css/769.70f3b610.chunk.css",
+    "static/js/769.3b53477f.chunk.js": "/MyPortfolio/static/js/769.3b53477f.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/MyPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/mun.png": "/MyPortfolio/static/media/mun.af8612585f870f9633c6.png",
     "static/media/Agustina.woff": "/MyPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/MyPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/tesla.png": "/MyPortfolio/static/media/tesla.300c2b805b63736728bd.png",
-    "static/media/nasdaq.jpg": "/MyPortfolio/static/media/nasdaq.665d5c963367834becde.jpg",
+    "static/media/nasdaq.jpg": "/MyPortfolio/static/media/nasdaq.71ca4b5fdf801b83e7c5.jpg",
     "static/media/contactMailDark.svg": "/MyPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/MyPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/googleAssistantLogo.webp": "/MyPortfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
@@ -22,15 +22,15 @@
     "static/media/nextuLogo.webp": "/MyPortfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/MyPortfolio/index.html",
     "static/media/talksCardBack.svg": "/MyPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.7aa74460.css.map": "/MyPortfolio/static/css/main.7aa74460.css.map",
-    "main.b5861415.js.map": "/MyPortfolio/static/js/main.b5861415.js.map",
-    "64.3b62a49e.chunk.css.map": "/MyPortfolio/static/css/64.3b62a49e.chunk.css.map",
-    "64.6b635eb9.chunk.js.map": "/MyPortfolio/static/js/64.6b635eb9.chunk.js.map",
-    "769.b3cbb36b.chunk.css.map": "/MyPortfolio/static/css/769.b3cbb36b.chunk.css.map",
-    "769.bb66b3c4.chunk.js.map": "/MyPortfolio/static/js/769.bb66b3c4.chunk.js.map"
+    "main.b1788390.css.map": "/MyPortfolio/static/css/main.b1788390.css.map",
+    "main.747d3c76.js.map": "/MyPortfolio/static/js/main.747d3c76.js.map",
+    "64.917cfe77.chunk.css.map": "/MyPortfolio/static/css/64.917cfe77.chunk.css.map",
+    "64.ca48edc2.chunk.js.map": "/MyPortfolio/static/js/64.ca48edc2.chunk.js.map",
+    "769.70f3b610.chunk.css.map": "/MyPortfolio/static/css/769.70f3b610.chunk.css.map",
+    "769.3b53477f.chunk.js.map": "/MyPortfolio/static/js/769.3b53477f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa74460.css",
-    "static/js/main.b5861415.js"
+    "static/css/main.b1788390.css",
+    "static/js/main.747d3c76.js"
   ]
 }
