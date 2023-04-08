@@ -49,14 +49,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Some of the tools I used extensively before:",
   skills: [
     emoji(
-      "⚡ Develop interactive Front-End and UI for web and mobile applications"
+      "⚡ Full Stack development for web and mobile applications."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Develop firmware and implement hardware testing environments."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Cloud infrastructure development and deployment using AWS, GCP, and Docker."
     )
   ],
 
@@ -65,16 +65,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
     },
     {
       skillName: "JavaScript",
@@ -89,20 +81,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "sql-database",
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "firebase",
@@ -115,6 +103,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "Jenkins",
+      fontAwesomeClassname: "fab fa-jenkins"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/mun.png"),
       subHeader: "Bachelor of Applied Science in Computer Engineering",
       duration: "September 2018 - April 2023",
-      // desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Received the Outstanding Academic Achievement Award (Dean's List) for the years 2019-2020",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -180,28 +180,29 @@ const workExperiences = {
       role: "DevOps Engineer",
       company: "Nasdaq",
       companylogo: require("./assets/images/nasdaq.jpg"),
-      date: "Jan 2022 – Sep 2022",
-      desc: "Automated a complex data processing pipeline using AWS, Python, and JavaScript"
+      date: "May 2021 – Sep 2022",
+      // desc: "Automated a complex data processing pipeline using AWS, Python, and JavaScript"
+      descBullets: [
+        "Automated a complex data processing pipeline using AWS, Python, and JavaScript",
+        "Developed importers in Java to receive real‑time financial data."
+      ]
     },
     {
-      role: "Software Developer",
-      company: "Nasdaq",
-      companylogo: require("./assets/images/nasdaq.jpg"),
-      date: "May 2021 – Jan 2022",
-      desc: "Automated a complex data processing pipeline using AWS, Python, and JavaScript"
-    },
-    {
-      role: "Full Stack developer",
+      role: "Full Stack & Firmware developer",
       company: "Solace Power",
       companylogo: require("./assets/images/solace.png"),
       date: "Aug 2020 – Dec 2020",
-      desc: "Developed internal engineering tool for iOS and Android using Flutter"
+      // desc: "Developed internal engineering tool for iOS and Android using Flutter"
+      descBullets: [
+        "Developed internal engineering tool for iOS and Android using Flutter.",
+        "Programmed Bluetooth SoC to detect center of electric field."
+      ]
     },
     {
       role: "Software Developer",
       company: "inspectAR",
       companylogo: require("./assets/images/inspectar.png"),
-      date: "January 2020 – May 2020",
+      date: "Jan 2020 – May 2020",
       desc: "Developed software for debugging PCBs using Augmented Reality in .NET & C#"
     }
   ]
