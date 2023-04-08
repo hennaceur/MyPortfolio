@@ -36,7 +36,6 @@ export default function Profile() {
       getProfileData();
     }
   }, []);
-  console.log(console.log(`openSource.display ${openSource.display} and openSource.showGithubProfile ${openSource.showGithubProfile}`))
   if (
     openSource.display &&
     openSource.showGithubProfile === "true" &&
