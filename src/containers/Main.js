@@ -26,7 +26,7 @@ import * as FullStory from '@fullstory/browser';
 FullStory.init({ orgId: 'RMJ2K' });
 
 const Main = () => {
-  const darkPref = window.matchMedia("(prefers-color-scheme: dark)");
+  const darkPref = false;
   const [isDark, setIsDark] = useLocalStorage("isDark", darkPref.matches);
   const [isShowingSplashAnimation, setIsShowingSplashAnimation] =
     useState(true);

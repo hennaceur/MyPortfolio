@@ -171,15 +171,11 @@ const workExperiences = {
       companylogo: require("./assets/images/tesla.png"),
       date: "Sep 2022 – Dec 2022",
       desc: "Developed firmware for Tesla Energy Megapack products in C & Python",
-      // descBullets: [
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      // ]
     },
     {
       role: "DevOps Engineer",
       company: "Nasdaq",
-      companylogo: require("./assets/images/nasdaq.jpg"),
+      companylogo: require("./assets/images/nasdaq.png"),
       date: "May 2021 – Sep 2022",
       // desc: "Automated a complex data processing pipeline using AWS, Python, and JavaScript"
       descBullets: [
