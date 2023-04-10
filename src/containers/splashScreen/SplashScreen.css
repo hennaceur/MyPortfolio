@@ -13,6 +13,10 @@
 .splash-title-container {
   font-size: 2.5rem;
   text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  align-items: center;
+  justify-content: space-between;
 }
 .splash-title {
   font-family: "Agustina Regular", cursive;
