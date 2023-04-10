@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.cba4018c.css",
-    "main.js": "/MyPortfolio/static/js/main.604e3455.js",
-    "static/css/64.917cfe77.chunk.css": "/MyPortfolio/static/css/64.917cfe77.chunk.css",
+    "main.css": "/MyPortfolio/static/css/main.3221d43d.css",
+    "main.js": "/MyPortfolio/static/js/main.eee1103d.js",
+    "static/css/64.ff24029e.chunk.css": "/MyPortfolio/static/css/64.ff24029e.chunk.css",
     "static/js/64.ca48edc2.chunk.js": "/MyPortfolio/static/js/64.ca48edc2.chunk.js",
-    "static/css/769.70f3b610.chunk.css": "/MyPortfolio/static/css/769.70f3b610.chunk.css",
+    "static/css/769.ceedc863.chunk.css": "/MyPortfolio/static/css/769.ceedc863.chunk.css",
     "static/js/769.3b53477f.chunk.js": "/MyPortfolio/static/js/769.3b53477f.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/MyPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/mun.png": "/MyPortfolio/static/media/mun.af8612585f870f9633c6.png",
@@ -22,15 +22,15 @@
     "static/media/nextuLogo.webp": "/MyPortfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/MyPortfolio/index.html",
     "static/media/talksCardBack.svg": "/MyPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.cba4018c.css.map": "/MyPortfolio/static/css/main.cba4018c.css.map",
-    "main.604e3455.js.map": "/MyPortfolio/static/js/main.604e3455.js.map",
-    "64.917cfe77.chunk.css.map": "/MyPortfolio/static/css/64.917cfe77.chunk.css.map",
+    "main.3221d43d.css.map": "/MyPortfolio/static/css/main.3221d43d.css.map",
+    "main.eee1103d.js.map": "/MyPortfolio/static/js/main.eee1103d.js.map",
+    "64.ff24029e.chunk.css.map": "/MyPortfolio/static/css/64.ff24029e.chunk.css.map",
     "64.ca48edc2.chunk.js.map": "/MyPortfolio/static/js/64.ca48edc2.chunk.js.map",
-    "769.70f3b610.chunk.css.map": "/MyPortfolio/static/css/769.70f3b610.chunk.css.map",
+    "769.ceedc863.chunk.css.map": "/MyPortfolio/static/css/769.ceedc863.chunk.css.map",
     "769.3b53477f.chunk.js.map": "/MyPortfolio/static/js/769.3b53477f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cba4018c.css",
-    "static/js/main.604e3455.js"
+    "static/css/main.3221d43d.css",
+    "static/js/main.eee1103d.js"
   ]
 }
