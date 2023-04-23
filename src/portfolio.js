@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Hazem Enanceur",
+  username: "hazem.dev",
   title: "Hi all, I'm Hazem",
   subTitle: emoji(
     "A passionate Software Engineer with experience in Full Stack, DevOps, and Firmware engineering."

@@ -1,9 +1,9 @@
 @font-face {
-  font-family: "Agustina Regular";
+  font-family: "Super Mario 256";
   font-style: normal;
   font-weight: normal;
-  src: local("Agustina Regular"),
-    url("./assets/fonts/Agustina.woff") format("woff");
+  src: local("Super Mario 256"),
+    url("./assets/fonts/SuperMario256.ttf") format("woff");
   font-display: swap;
 }
 @font-face {
